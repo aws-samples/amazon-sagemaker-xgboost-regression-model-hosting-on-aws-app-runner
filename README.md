@@ -1,4 +1,4 @@
-## Train a XGBoost regression model on Amazon SageMaker, host inference as an API on a Docker container running on AWS App Runner
+## Train a XGBoost regression model on Amazon SageMaker and host inference as an API on a Docker container running on AWS App Runner
 
 This repository contains a sample to train a regression model in Amazon SageMaker using SageMaker's built-in XGBoost algorithm on the California Housing dataset and host the inference as an API on a Docker container running on AWS App Runner.
 
